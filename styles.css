@@ -241,11 +241,11 @@
 
 @media screen and (max-width: 768px) {
   .home-heading {
-    font-size: 60px;
+    font-size: 55px;
   }
 
   .home-description {
-    font-size: 40px;
+    font-size: 25px;
   }
 }
 
